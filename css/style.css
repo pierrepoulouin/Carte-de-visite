@@ -1,0 +1,22 @@
+#logo {
+  position: left;
+
+    width: 150px;
+
+    
+}
+
+#informations {
+  font-weight: bold;
+  font-size: 1.5em;
+  margin-left: 170px;
+  text-align: left;
+  
+	
+
+
+    
+}
+.profil {
+  border: 3px solid white;
+    border-radius: 500%;
